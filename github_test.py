@@ -4,4 +4,4 @@ from pyqgis_scripting_ext.core import *
 
 #jijj
 
-i = 0
+i = 1
